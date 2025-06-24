@@ -28,6 +28,7 @@ prompt-noapi-trainer/
 ├── prompt_trainer.py       # Terminal CLI version
 ├── streamlit_app.py        # Streamlit web app
 ├── prompts.md              # Tasks and prompt templates
+├── demo.png                # Interface Preview 
 └── README.md               # Project documentation
 ```
 
